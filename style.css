@@ -1,0 +1,21 @@
+body{
+    background-color: #E4D8DC;
+}
+section{
+    text-align: center;
+}
+
+h1{
+   font-size: 100px; 
+   color: #6E85B2;
+   opacity: 0.4;
+}
+
+p{
+    font-size: 20px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 8px;
+}
