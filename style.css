@@ -38,6 +38,9 @@ a:link{
     text-decoration: none;
     color: #DBE6FD;
 }
+a:visited{
+color: #DBE6FD;
+}
 
  img{
      height: 200px;
